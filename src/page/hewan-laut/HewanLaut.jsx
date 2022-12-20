@@ -25,7 +25,7 @@ const HewanLaut = () => {
           <FiChevronLeft className="text-2xl text-white" />
         </button>
         <h1 className="font-bold text-40px md:text-4xl text-white">
-          Hewan Laut
+          Hewan Air
         </h1>
       </div>
       {/* <div className="grid grid-cols-1 gap-10 md:grid-cols-4 md:gap-40 space-y-2"> */}
